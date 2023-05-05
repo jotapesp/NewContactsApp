@@ -7,4 +7,4 @@ typing "python app.py [file_name]" where file_name is optional. If you are using
 the app for the first time, you likely do not have any file to pass its name in
 the command line, therefore, type only "python app.py". In case you have already
 used the app and saved the contacts list in a file, you can either parse its na-
-me in the command line or use the function in the app menu.
+me in the command line or use the function in the app menu to load the file.
